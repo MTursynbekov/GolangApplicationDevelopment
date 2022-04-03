@@ -5,3 +5,4 @@
 - [x] HW3
 - [x] HW4
 - [x] HW5(Practice 9)
+- [x] HW6(Practice 10)
